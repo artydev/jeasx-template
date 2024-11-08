@@ -1,0 +1,12 @@
+{
+  "name": "jeasx-quickstart",
+  "type": "module",
+  "scripts": {
+    "start": "jeasx start",
+    "build": "jeasx build",
+    "dev": "jeasx dev"
+  },
+  "dependencies": {
+    "jeasx": "1.0.1"
+  }
+}
